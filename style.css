@@ -8,6 +8,10 @@
     box-sizing: 0;
 }
 
+i {
+    cursor: pointer;
+}
+
 body{
     font-family: sans-serif;
 }
