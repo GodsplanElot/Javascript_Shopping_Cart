@@ -131,3 +131,28 @@ body{
     cursor: pointer;
     margin-top: 10px;
 }
+
+.bi-x-lg {
+    color: red;
+    font-weight: bold;
+}
+
+/**
+* ! Styles rules for shopping cart
+**/
+
+.shopping-cart {
+    display: grid;
+    grid-template-columns: repeat(1, 320px);
+    justify-content: center;
+    gap: 15px;
+}
+
+/**
+* ! Styles rules for shopping cart
+**/
+
+.cart-item {
+    border: 2px solid #212529;
+    border-radius: 5px;
+}
